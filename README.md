@@ -1,9 +1,11 @@
 # Assignment 1 - N-bit MUX in Verilog
 
+---
 | | |
 |---|---|
 | **Name** | Pratik Shrestha |
 | **Roll No** | THA079BEI026 |
+---
 
 
 ## Description
