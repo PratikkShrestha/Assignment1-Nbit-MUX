@@ -1,7 +1,10 @@
 # Assignment 1 - N-bit MUX in Verilog
 
-**Name:** Pratik Shrestha
-**Roll No:** THA079BEI026
+| | |
+|---|---|
+| **Name** | Pratik Shrestha |
+| **Roll No** | THA079BEI026 |
+---
 
 ## Description
 A parameterized N:1 Multiplexer with 8-bit width implemented in Verilog.
