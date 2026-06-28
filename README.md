@@ -1,5 +1,8 @@
 # Assignment 1 - N-bit MUX in Verilog
 
+**Name:** Pratik Shrestha
+**Roll No:** THA079BEI026
+
 ## Description
 A parameterized N:1 Multiplexer with 8-bit width implemented in Verilog.
 The number of inputs (N) can be changed using a single parameter without
